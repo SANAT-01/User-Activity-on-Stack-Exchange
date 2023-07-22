@@ -1,0 +1,21 @@
+
+OUTPUT
+
+
+Total no of comments are 34516 for viewcount 0
+Change manually the value of variable 'times' to count total no of comments with a given viewcount
+Top 10 most viewed posts on DataScienceExchange are
++-----------+-------------------------------------------------------------------------------------------------------------+
+| ViewCount |                                                    Title                                                    |
++-----------+-------------------------------------------------------------------------------------------------------------+
+|   323031  |              ValueError: Input contains NaN, infinity or a value too large for dtype('float32')             |
+|   308776  | How to get correlation between two categorical variable and a categorical variable and continuous variable? |
+|   239698  |                                       What are deconvolutional layers?                                      |
+|   240803  |                           How to draw Deep learning network architecture diagrams?                          |
+|   302370  |                          How to set class weights for imbalanced classes in Keras?                          |
+|   254549  |              Micro Average vs Macro average Performance in a Multiclass classification setting              |
+|   247600  |                          K-Means clustering for mixed numeric and categorical data                          |
+|   297010  |                 What's the difference between fit and fit_transform in scikit-learn models?                 |
+|   281109  |                              How do I compare columns in different data frames?                             |
+|   253123  |             train_test_split() error: Found input variables with inconsistent numbers of samples            |
++-----------+-------------------------------------------------------------------------------------------------------------+
